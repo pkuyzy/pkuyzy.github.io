@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zuoyu Yan"
-  avatar           : "images/self.jpg"
+  avatar           : "/images/self.jpg"
   cv               : "/files/CV.pdf"
   bio              : "A Phd. student at Peking University"
   location         : "Beijing, China"
