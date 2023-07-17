@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "Zuoyu Yan"
   avatar           : "profile.png"
+  cv               : "/files/CV.pdf"
   bio              : "A Phd. student at Peking University"
   location         : "Beijing, China"
   employer         :
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "/files/CV.pdf"
 
 
 # Reading Files
