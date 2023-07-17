@@ -15,9 +15,7 @@ Hi! I'm Zuoyu Yan (严祚宇), a fourth-year Phd. student at Peking University, 
 2. The expressive power of graph neural networks
 3. Topological representation/graph representation acceleration
 
-If you are interested in my research, always feel free to contact me through my [e-mail](yanzuoyu3@pku.edu.cn).
-
-[CV](/files/CV.pdf)
+This is my [CV](/files/CV.pdf). If you are interested in my research, always feel free to contact me through my [e-mail](yanzuoyu3@pku.edu.cn).
 
 📝 Selected Publications
 ======
