@@ -21,28 +21,43 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, always fee
 ======
 
 [Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs](https://arxiv.org/pdf/2303.10576.pdf)
+
 **Zuoyu Yan**, Junru Zhou, Liangcai Gao, Zhi Tang, Muhan Zhang
+
 Aixiv Preprint
+
 [code](https://github.com/pkuyzy/ESC-GNN)
 
 [Neural Approximation of Graph Topological Features](https://arxiv.org/pdf/2201.12032.pdf)
+
 **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Yusu Wang, Chao Chen
+
 Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022 (Spotlight)
+
 [code](https://github.com/pkuyzy/TLC-GNN)
 
 [Cycle Representation Learning for Inductive Relation Prediction](https://arxiv.org/pdf/2110.02510.pdf)
+
 **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
+
 International Conference on Machine Learning (ICML), 2022
+
 [code](https://github.com/pkuyzy/CBGNN)
 
 [Link Prediction with Persistent Homology: An Interactive View](https://arxiv.org/pdf/2102.10255.pdf)
+
 **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
+
 International Conference on Machine Learning (ICML), 2021
+
 [code](https://github.com/pkuyzy/TLC-GNN)
 
 [Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/pdf/2105.02412.pdf)
+
 Wenqi Zhao, Liangcai Gao, **Zuoyu Yan**, Shuai Peng, Lin Du, Ziyin Zhang
+
 International Conference on Document Analysis and Recognition (ICDAR), 2021 (Best Poster Award)
+
 [code](https://github.com/Green-Wood/BTTR)
 
 🏫 Professional Services
