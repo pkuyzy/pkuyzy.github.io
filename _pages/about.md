@@ -24,7 +24,7 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 
 <img src="/images/ESCGNN_small.png" align="left" height=150/>
 
-[Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs](https://arxiv.org/pdf/2303.10576.pdf) [[Code](https://github.com/pkuyzy/ESC-GNN)]
+**Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs** [[Paper](https://arxiv.org/pdf/2303.10576.pdf)] [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
 **Zuoyu Yan**, Junru Zhou, Liangcai Gao, Zhi Tang, Muhan Zhang
 
@@ -32,9 +32,9 @@ Aixiv Preprint.
 
 <br clear="left"/>
 
-<img src="/images/PDGNN_small.png" align="left" height=130/>
+<img src="/images/PDGNN_small_.png" align="left" height=130/>
 
-[Neural Approximation of Graph Topological Features](https://arxiv.org/pdf/2201.12032.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
+**Neural Approximation of Graph Topological Features** [[Paper](https://arxiv.org/pdf/2201.12032.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
 **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Yusu Wang, Chao Chen
 
@@ -44,7 +44,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 
 <img src="/images/CBGNN_small_.png" align="left" height=150/>
 
-[Cycle Representation Learning for Inductive Relation Prediction](https://arxiv.org/pdf/2110.02510.pdf) [[Code](https://github.com/pkuyzy/CBGNN)]
+**Cycle Representation Learning for Inductive Relation Prediction** [[Paper](https://arxiv.org/pdf/2110.02510.pdf)] [[Code](https://github.com/pkuyzy/CBGNN)]
 
 **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
 
@@ -54,7 +54,7 @@ International Conference on Machine Learning (ICML), 2022
 
 <img src="/images/TLCGNN1.png" align="left" height=200/>
 
-[Link Prediction with Persistent Homology: An Interactive View](https://arxiv.org/pdf/2102.10255.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
+**Link Prediction with Persistent Homology: An Interactive View** [[Paper](https://arxiv.org/pdf/2102.10255.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
 **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
 
@@ -64,7 +64,7 @@ International Conference on Machine Learning (ICML), 2021
 
 <img src="/images/BTTR_small.png" align="left" height=300/>
 
-[Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/pdf/2105.02412.pdf) [[Code](https://github.com/Green-Wood/BTTR)]
+**Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer** [[Paper](https://arxiv.org/pdf/2105.02412.pdf)] [[Code](https://github.com/Green-Wood/BTTR)]
 
 Wenqi Zhao, Liangcai Gao, **Zuoyu Yan**, Shuai Peng, Lin Du, Ziyin Zhang
 
