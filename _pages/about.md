@@ -42,7 +42,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 
 <br clear="left"/>
 
-<img src="/images/CBGNN_small.png" align="left" height=150/>
+<img src="/images/CBGNN_small_.png" align="left" height=150/>
 
 [Cycle Representation Learning for Inductive Relation Prediction](https://arxiv.org/pdf/2110.02510.pdf) [[Code](https://github.com/pkuyzy/CBGNN)]
 
