@@ -18,12 +18,12 @@ During my Ph.D., I have also been fortunate to spend time collaborating with [Pr
 
 This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <yanzuoyu3@gmail.com>.
 
-test new rua
+test new rua 10
 
 📝 Selected Publications
 ======
 
-<img src="/images/ESCGNN.png" align="left" height=60/>
+<img src="/images/ESCGNN.png" align="left" height=10/>
 
 [Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs](https://arxiv.org/pdf/2303.10576.pdf) [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
