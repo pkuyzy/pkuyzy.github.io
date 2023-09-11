@@ -18,7 +18,6 @@ During my Ph.D., I have also been fortunate to spend time collaborating with [Pr
 
 This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <yanzuoyu3@gmail.com>.
 
-test
 
 📝 Selected Publications
 ======
@@ -69,7 +68,7 @@ International Conference on Machine Learning (ICML), 2021
 
 Wenqi Zhao, Liangcai Gao, **Zuoyu Yan**, Shuai Peng, Lin Du, Ziyin Zhang
 
-International Conference on Document Analysis and Recognition (ICDAR), 2021 (Best Poster Award)
+International Conference on Document Analysis and Recognition (ICDAR), 2021 (Best Poster Award, 2 out of 340 submissions)
 
 <br clear="left"/>
 
