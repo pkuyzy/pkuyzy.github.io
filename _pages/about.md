@@ -16,7 +16,7 @@ During my Ph.D., I have also been fortunate to spend time collaborating with [Pr
 1. Combining geometry/topology with modern machine learning frameworks, e.g., graph neural networks.
 2. Their applications in real-world scenarios, e.g., biomedicine, and recommendation systems.
 
-This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through my [e-mail](yanzuoyu3@pku.edu.cn).
+This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through my email: yanzuoyu3@pku.edu.cn.
 
 📝 Selected Publications
 ======
@@ -55,4 +55,8 @@ International Conference on Document Analysis and Recognition (ICDAR), 2021 (Bes
 
 🏫 Professional Services
 ======
-* Reviewer for ICML 2022, NeurIPS 2022, LoG 2022, ICML 2023, NeurIPS 2023.
+Conference Reviewer for:
+* Conference on Neural Information Processing Systems (NeurIPS)
+* International Conference on Machine Learning (ICML) 
+* International Conference on Learning Representations (ICLR) 
+* Learning on Graphs Conference (LoG)
