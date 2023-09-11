@@ -23,7 +23,7 @@ test new rua 10
 📝 Selected Publications
 ======
 
-<img src="/images/ESCGNN.png" align="left" height=10/>
+<img src="/images/ESCGNN_small.png" align="left" height=120/>
 
 [Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs](https://arxiv.org/pdf/2303.10576.pdf) [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
