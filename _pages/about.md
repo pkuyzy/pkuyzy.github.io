@@ -18,7 +18,6 @@ During my Ph.D., I have also been fortunate to spend time collaborating with [Pr
 
 This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <yanzuoyu3@gmail.com>.
 
-test
 
 📝 Selected Publications
 ======
