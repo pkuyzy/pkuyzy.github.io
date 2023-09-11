@@ -21,7 +21,7 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 📝 Selected Publications
 ======
 
-<img src="/images/ESCGNN.png" align="left" height="120px"/>
+<img src="/images/ESCGNN.png" align="left" height="60px"/>
 
 [Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs](https://arxiv.org/pdf/2303.10576.pdf) [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
@@ -32,7 +32,7 @@ Aixiv Preprint.
 <br clear="left"/>
 
 
-<img src="/images/PDGNN.png" align="left" height="110px"/>
+<img src="/images/PDGNN.png" align="left" height="55px"/>
 
 [Neural Approximation of Graph Topological Features](https://arxiv.org/pdf/2201.12032.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
@@ -43,7 +43,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 <br clear="left"/>
 
 
-<img src="/images/CBGNN.png" align="left" height="120px"/>
+<img src="/images/CBGNN.png" align="left" height="60px"/>
 
 [Cycle Representation Learning for Inductive Relation Prediction](https://arxiv.org/pdf/2110.02510.pdf) [[Code](https://github.com/pkuyzy/CBGNN)]
 
@@ -53,7 +53,7 @@ International Conference on Machine Learning (ICML), 2022
 
 <br clear="left"/>
 
-<img src="/images/TLCGNN1.png" align="left" height="150px"/>
+<img src="/images/TLCGNN1.png" align="left" height="75px"/>
 
 [Link Prediction with Persistent Homology: An Interactive View](https://arxiv.org/pdf/2102.10255.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
@@ -63,7 +63,7 @@ International Conference on Machine Learning (ICML), 2021
 
 <br clear="left"/>
 
-<img src="/images/BTTR.png" align="left" height="240px"/>
+<img src="/images/BTTR.png" align="left" height="120px"/>
 
 [Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/pdf/2105.02412.pdf) [[Code](https://github.com/Green-Wood/BTTR)]
 
