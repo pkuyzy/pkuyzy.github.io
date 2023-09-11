@@ -33,7 +33,7 @@ Aixiv Preprint.
 
 
 
-<img src="/images/PDGNN.png" align="left" height=55/>
+<img src="/images/PDGNN_small.png" align="left" height=110/>
 
 [Neural Approximation of Graph Topological Features](https://arxiv.org/pdf/2201.12032.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
@@ -42,7 +42,7 @@ Aixiv Preprint.
 Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022 (Spotlight) 
 
 
-<img src="/images/CBGNN.png" align="left" height=60/>
+<img src="/images/CBGNN_small.png" align="left" height=120/>
 
 [Cycle Representation Learning for Inductive Relation Prediction](https://arxiv.org/pdf/2110.02510.pdf) [[Code](https://github.com/pkuyzy/CBGNN)]
 
@@ -50,7 +50,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 
 International Conference on Machine Learning (ICML), 2022
 
-<img src="/images/TLCGNN1.png" align="left" height=75/>
+<img src="/images/TLCGNN1.png" align="left" height=150/>
 
 [Link Prediction with Persistent Homology: An Interactive View](https://arxiv.org/pdf/2102.10255.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
@@ -58,7 +58,7 @@ International Conference on Machine Learning (ICML), 2022
 
 International Conference on Machine Learning (ICML), 2021
 
-<img src="/images/BTTR.png" align="left" height=120/>
+<img src="/images/BTTR_small.png" align="left" height=240/>
 
 [Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/pdf/2105.02412.pdf) [[Code](https://github.com/Green-Wood/BTTR)]
 
