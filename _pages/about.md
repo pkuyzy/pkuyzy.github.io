@@ -22,55 +22,35 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 📝 Selected Publications
 ======
 
-<img src="/images/ESCGNN_small.png" align="left" height=150/>
+* **Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs** [[Paper](https://arxiv.org/pdf/2303.10576.pdf)] [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
-**Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs** [[Paper](https://arxiv.org/pdf/2303.10576.pdf)] [[Code](https://github.com/pkuyzy/ESC-GNN)]
+  **Zuoyu Yan**, Junru Zhou, Liangcai Gao, Zhi Tang, Muhan Zhang
 
-**Zuoyu Yan**, Junru Zhou, Liangcai Gao, Zhi Tang, Muhan Zhang
+  Aixiv Preprint. 
 
-Aixiv Preprint. 
+* **Neural Approximation of Graph Topological Features** [[Paper](https://arxiv.org/pdf/2201.12032.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
-<br clear="left"/>
+  **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Yusu Wang, Chao Chen
 
-<img src="/images/PDGNN_small.png" align="left" height=130/>
+  Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022 (Spotlight) 
 
-**Neural Approximation of Graph Topological Features** [[Paper](https://arxiv.org/pdf/2201.12032.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
+* **Cycle Representation Learning for Inductive Relation Prediction** [[Paper](https://arxiv.org/pdf/2110.02510.pdf)] [[Code](https://github.com/pkuyzy/CBGNN)]
 
-**Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Yusu Wang, Chao Chen
+  **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
 
-Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022 (Spotlight) 
+  International Conference on Machine Learning (ICML), 2022
 
-<br clear="left"/>
+* **Link Prediction with Persistent Homology: An Interactive View** [[Paper](https://arxiv.org/pdf/2102.10255.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
-<img src="/images/CBGNN_small.png" align="left" height=150/>
+  **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
 
-**Cycle Representation Learning for Inductive Relation Prediction** [[Paper](https://arxiv.org/pdf/2110.02510.pdf)] [[Code](https://github.com/pkuyzy/CBGNN)]
+  International Conference on Machine Learning (ICML), 2021
 
-**Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
+* **Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer** [[Paper](https://arxiv.org/pdf/2105.02412.pdf)] [[Code](https://github.com/Green-Wood/BTTR)]
 
-International Conference on Machine Learning (ICML), 2022
+  Wenqi Zhao, Liangcai Gao, **Zuoyu Yan**, Shuai Peng, Lin Du, Ziyin Zhang
 
-<br clear="left"/>
-
-<img src="/images/TLCGNN1.png" align="left" height=200/>
-
-**Link Prediction with Persistent Homology: An Interactive View** [[Paper](https://arxiv.org/pdf/2102.10255.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
-
-**Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen
-
-International Conference on Machine Learning (ICML), 2021
-
-<br clear="left"/>
-
-<img src="/images/BTTR_small.png" align="left" height=300/>
-
-**Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer** [[Paper](https://arxiv.org/pdf/2105.02412.pdf)] [[Code](https://github.com/Green-Wood/BTTR)]
-
-Wenqi Zhao, Liangcai Gao, **Zuoyu Yan**, Shuai Peng, Lin Du, Ziyin Zhang
-
-International Conference on Document Analysis and Recognition (ICDAR), 2021 (Best Poster Award, 2 out of 340 submissions)
-
-<br clear="left"/>
+  International Conference on Document Analysis and Recognition (ICDAR), 2021 (Best Poster Award, 2 out of 340 submissions)
 
 🏫 Professional Services
 ======
