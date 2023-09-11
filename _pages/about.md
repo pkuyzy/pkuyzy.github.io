@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Zuoyu Yan (严祚宇), a fourth-year Phd. student at Peking University, advised by [Prof. Zhi Tang](https://www.wict.pku.edu.cn/cpdp/kydw/ggcy/1297369.htm) and [Prof. Liangcai Gao](https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288880.htm). Before starting Phd., I finished my undergraduate study at the Yuanpei College of Peking University, majoring in Data Science.
+Hi! I'm Zuoyu Yan (严祚宇), a final-year Ph.D. student at Peking University, advised by [Prof. Zhi Tang](https://www.wict.pku.edu.cn/cpdp/kydw/ggcy/1297369.htm) and [Prof. Liangcai Gao](https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288880.htm). Before starting Ph.D., I finished my undergraduate study at the [Yuanpei College of Peking University](https://yuanpei.pku.edu.cn/en/aboutyuanpei/collegeprofile/index.htm), an exemplary high-quality and pioneering undergraduate college, majoring in Data Science.
 
-**Research Interests:** My research interest lies in the intersection of graph representation learning and topological data analysis. In particular, I am interested in:
-1. Learning topological representations
-2. The expressive power of graph neural networks
-3. Topological representation/graph representation acceleration
+During my Ph.D., I have also been fortunate to spend time collaborating with [Prof. Chao Chen](https://chaochen.github.io/), [Prof. Yusu Wang](http://yusu.belkin-wang.org/), [Prof. Tengfei Ma](https://sites.google.com/site/matf0123/home), and [Prof. Muhan Zhang](https://muhanzhang.github.io/).
 
-This is my [CV](/files/CV.pdf). If you are interested in my research, feel free to contact me through my [e-mail](yanzuoyu3@pku.edu.cn).
+**Research Interests:** My research interest lies in the intersection of machine learning and topological data analysis. In particular, I am interested in: 
+1. Combining geometry/topology with modern machine learning frameworks, e.g., graph neural networks.
+2. Their applications in real-world scenarios, e.g., biomedicine, and recommendation systems.
+
+This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through my [e-mail](yanzuoyu3@pku.edu.cn).
 
 📝 Selected Publications
 ======
