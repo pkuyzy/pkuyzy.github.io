@@ -29,7 +29,6 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 
 Aixiv Preprint. 
 
-<br clear="left"/>
 
 
 <img src="/images/PDGNN.png" align="left" height=55/>
@@ -40,8 +39,6 @@ Aixiv Preprint.
 
 Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022 (Spotlight) 
 
-<br clear="left"/>
-
 
 <img src="/images/CBGNN.png" align="left" height=60/>
 
@@ -51,8 +48,6 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 
 International Conference on Machine Learning (ICML), 2022
 
-<br clear="left"/>
-
 <img src="/images/TLCGNN1.png" align="left" height=75/>
 
 [Link Prediction with Persistent Homology: An Interactive View](https://arxiv.org/pdf/2102.10255.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
@@ -61,8 +56,6 @@ International Conference on Machine Learning (ICML), 2022
 
 International Conference on Machine Learning (ICML), 2021
 
-<br clear="left"/>
-
 <img src="/images/BTTR.png" align="left" height=120/>
 
 [Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/pdf/2105.02412.pdf) [[Code](https://github.com/Green-Wood/BTTR)]
@@ -70,8 +63,6 @@ International Conference on Machine Learning (ICML), 2021
 Wenqi Zhao, Liangcai Gao, **Zuoyu Yan**, Shuai Peng, Lin Du, Ziyin Zhang
 
 International Conference on Document Analysis and Recognition (ICDAR), 2021 (Best Poster Award)
-
-<br clear="left"/>
 
 
 🏫 Professional Services
