@@ -16,7 +16,7 @@ During my Ph.D., I have also been fortunate to spend time collaborating with [Pr
 1. Combining geometry/topology with modern machine learning frameworks, e.g., graph neural networks.
 2. Their applications in real-world scenarios, e.g., biomedicine, and recommendation systems.
 
-This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through my email: yanzuoyu3@pku.edu.cn.
+This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <yanzuoyu3@gmail.com>.
 
 📝 Selected Publications
 ======
