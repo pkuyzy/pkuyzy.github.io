@@ -18,11 +18,12 @@ During my Ph.D., I have also been fortunate to spend time collaborating with [Pr
 
 This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <yanzuoyu3@gmail.com>.
 
+test
 
 📝 Selected Publications
 ======
 
-<img src="/images/ESCGNN_small.png" align="left" height=120/>
+<img src="/images/ESCGNN_small.png" align="left" height=150/>
 
 [Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs](https://arxiv.org/pdf/2303.10576.pdf) [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
@@ -32,7 +33,7 @@ Aixiv Preprint.
 
 <br clear="left"/>
 
-<img src="/images/PDGNN_small.png" align="left" height=110/>
+<img src="/images/PDGNN_small.png" align="left" height=130/>
 
 [Neural Approximation of Graph Topological Features](https://arxiv.org/pdf/2201.12032.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
@@ -42,7 +43,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS), 2022
 
 <br clear="left"/>
 
-<img src="/images/CBGNN_small.png" align="left" height=120/>
+<img src="/images/CBGNN_small.png" align="left" height=150/>
 
 [Cycle Representation Learning for Inductive Relation Prediction](https://arxiv.org/pdf/2110.02510.pdf) [[Code](https://github.com/pkuyzy/CBGNN)]
 
@@ -52,7 +53,7 @@ International Conference on Machine Learning (ICML), 2022
 
 <br clear="left"/>
 
-<img src="/images/TLCGNN1.png" align="left" height=150/>
+<img src="/images/TLCGNN1.png" align="left" height=200/>
 
 [Link Prediction with Persistent Homology: An Interactive View](https://arxiv.org/pdf/2102.10255.pdf) [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
@@ -62,7 +63,7 @@ International Conference on Machine Learning (ICML), 2021
 
 <br clear="left"/>
 
-<img src="/images/BTTR_small.png" align="left" height=240/>
+<img src="/images/BTTR_small.png" align="left" height=300/>
 
 [Handwritten Mathematical Expression Recognition with Bidirectionally Trained Transformer](https://arxiv.org/pdf/2105.02412.pdf) [[Code](https://github.com/Green-Wood/BTTR)]
 
