@@ -26,7 +26,7 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 
   **Zuoyu Yan**, Junru Zhou, Liangcai Gao, Zhi Tang, Muhan Zhang
 
-  Aixiv Preprint. 
+  aiXiv Preprint. 
 
 * **Neural Approximation of Graph Topological Features** [[Paper](https://arxiv.org/pdf/2201.12032.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
 
