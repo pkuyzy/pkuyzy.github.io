@@ -22,6 +22,12 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 📝 Selected Publications
 ======
 
+* **Cycle Invariant Positional Encoding for Graph Representation Learning** 
+
+  **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen, Yusu Wang
+
+  The Second Learning on Graphs Conference (LoG), 2023 (Oral) 
+
 * **Efficiently Counting Substructures by Subgraph GNNs without Running GNN on Subgraphs** [[Paper](https://arxiv.org/pdf/2303.10576.pdf)] [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
   **Zuoyu Yan**, Junru Zhou, Liangcai Gao, Zhi Tang, Muhan Zhang
