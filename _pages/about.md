@@ -22,7 +22,7 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 📝 Selected Publications
 ======
 
-* **Cycle Invariant Positional Encoding for Graph Representation Learning** 
+* **Cycle Invariant Positional Encoding for Graph Representation Learning** [[Paper](https://arxiv.org/pdf/2311.14333.pdf)]
 
   **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen, Yusu Wang
 
