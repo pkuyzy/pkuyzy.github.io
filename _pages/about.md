@@ -13,8 +13,8 @@ Hi! I'm Zuoyu Yan (严祚宇), a final-year Ph.D. student at Peking University, 
 During my Ph.D., I have also been fortunate to spend time collaborating with [Prof. Chao Chen](https://chaochen.github.io/), [Prof. Yusu Wang](http://yusu.belkin-wang.org/), [Prof. Tengfei Ma](https://sites.google.com/site/matf0123/home), and [Prof. Muhan Zhang](https://muhanzhang.github.io/).
 
 **Research Interests:** My research interest lies in the intersection of machine learning and topological data analysis. In particular, I am interested in: 
-1. Combining geometry/topology with modern machine learning frameworks, e.g., graph neural networks.
-2. Their applications in real-world scenarios, e.g., biomedicine, and recommendation systems.
+1. Enhancing modern machine learning frameworks, e.g., graph neural networks, with topology/geometry.
+2. Applying these models in real-world scenarios, e.g., biomedicine, and recommendation systems.
 
 This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <yanzuoyu3@pku.edu.cn>.
 
@@ -22,7 +22,7 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 📝 Selected Publications
 ======
 
-* **Cycle Invariant Positional Encoding for Graph Representation Learning** [[Paper](https://arxiv.org/pdf/2311.14333.pdf)]
+* **Cycle Invariant Positional Encoding for Graph Representation Learning** [[Paper](https://arxiv.org/pdf/2311.14333.pdf)][[Code](https://github.com/pkuyzy/CycleNet)]
 
   **Zuoyu Yan**, Tengfei Ma, Liangcai Gao, Zhi Tang, Chao Chen, Yusu Wang
 
