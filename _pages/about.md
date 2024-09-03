@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Zuoyu Yan (严祚宇), a final-year Ph.D. student at Peking University, advised by [Prof. Zhi Tang](https://www.wict.pku.edu.cn/cpdp/kydw/ggcy/1297369.htm) and [Prof. Liangcai Gao](https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288880.htm). Before starting Ph.D., I finished my undergraduate study at the [Yuanpei College of Peking University](https://yuanpei.pku.edu.cn/en/aboutyuanpei/collegeprofile/index.htm), an exemplary high-quality and pioneering undergraduate college, majoring in Data Science.
+Hi! I'm Zuoyu Yan (严祚宇), a Postdoctoral Research Fellow at Weill Medical College of Cornell University, working with [Prof. Fei Wang](https://weill.cornell.edu/faculty-highlight/fei-wang-phd).
 
-During my Ph.D., I have also been fortunate to spend time collaborating with [Prof. Chao Chen](https://chaochen.github.io/), [Prof. Yusu Wang](http://yusu.belkin-wang.org/), [Prof. Tengfei Ma](https://sites.google.com/site/matf0123/home), and [Prof. Muhan Zhang](https://muhanzhang.github.io/).
+I obtained my PhD degree from [Peking University](https://sai.pku.edu.cn/), advised by [Prof. Zhi Tang](https://www.wict.pku.edu.cn/cpdp/kydw/ggcy/1297369.htm) and [Prof. Liangcai Gao](https://www.icst.pku.edu.cn/szwdclyjs/kydw/ggcy/1288880.htm). During my Ph.D., I have also been fortunate to collaborate with [Prof. Chao Chen](https://chaochen.github.io/), [Prof. Yusu Wang](http://yusu.belkin-wang.org/), [Prof. Tengfei Ma](https://sites.google.com/site/matf0123/home), and [Prof. Muhan Zhang](https://muhanzhang.github.io/).
+
+Before starting Ph.D., I finished my undergraduate study at the [Yuanpei College of Peking University](https://yuanpei.pku.edu.cn/en/aboutyuanpei/collegeprofile/index.htm), an exemplary high-quality and pioneering undergraduate college, majoring in Data Science.
+
 
 **Research Interests:** My research interest lies in the intersection of machine learning and topological data analysis. In particular, I am interested in: 
 1. Enhancing modern machine learning frameworks, e.g., graph neural networks, with topology/geometry.
