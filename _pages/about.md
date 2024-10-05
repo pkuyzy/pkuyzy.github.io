@@ -19,7 +19,7 @@ Before starting Ph.D., I finished my undergraduate study at the [Yuanpei College
 1. Enhancing modern machine learning frameworks, e.g., graph neural networks, with topology/geometry.
 2. Applying these models in real-world scenarios, e.g., biomedicine, and recommendation systems.
 
-This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <yanzuoyu3@pku.edu.cn>.
+This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesitate to get in touch with me through <zuy4001@med.cornell.edu>.
 
 
 📝 Selected Publications
