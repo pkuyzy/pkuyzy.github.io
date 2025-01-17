@@ -24,6 +24,11 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 
 📝 Selected Publications
 ======
+* **Enhancing Graph Representation Learning with Localized Topological Features** [[Paper](https://arxiv.org/pdf/2501.09178.pdf)] [[Code](https://github.com/pkuyzy/TLC-GNN)]
+
+  **Zuoyu Yan**, Qi Zhao, Ze Ye, Tengfei Ma, Liangcai Gao, Zhi Tang, Yusu Wang, Chao Chen
+
+  Journal of Machine Learning Research (JMLR), 2025
 
 * **An Efficient Subgraph GNN with Provable Substructure Counting Power** [[Paper](https://arxiv.org/pdf/2303.10576.pdf)] [[Code](https://github.com/pkuyzy/ESC-GNN)]
 
