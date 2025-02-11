@@ -66,6 +66,14 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 
   International Conference on Document Analysis and Recognition (ICDAR), 2021 (Best Poster Award, 2 out of 340 submissions)
 
+* **ConvMath: A Convolutional Sequence Network for Mathematical Expression Recognition** [[Paper](https://arxiv.org/pdf/2012.12619.pdf)]
+  
+  **Zuoyu Yan***, Xiaode Zhang*, Liangcai Gao, Ke Yuan, Zhi Tang
+  
+  \* indicates equal contribution
+  
+  International Conference on Pattern Recognition (ICPR), 2020
+
 🏫 Professional Services
 ======
 Conference Reviewer for:
