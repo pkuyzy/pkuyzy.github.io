@@ -68,7 +68,7 @@ This is my [CV](/files/CV.pdf). If you are interested in my research, don't hesi
 
 * **ConvMath: A Convolutional Sequence Network for Mathematical Expression Recognition** [[Paper](https://arxiv.org/pdf/2012.12619.pdf)]
   
-  **Zuoyu Yan***, Xiaode Zhang*, Liangcai Gao, Ke Yuan, Zhi Tang
+  **Zuoyu Yan\***, Xiaode Zhang\*, Liangcai Gao, Ke Yuan, Zhi Tang
   
   \* indicates equal contribution
   
